@@ -1,0 +1,2 @@
+# handle_google_spreadsheets_python
+PythonでGoogle Spread Sheetsにアクセスするサンプル
